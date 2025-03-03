@@ -1,0 +1,9 @@
+mensagem_carol/
+│── app.py  (Código Python - Servidor)
+│── templates/
+│   └── index.html  (Página HTML)
+│── static/
+│   ├── style.css  (Estilos da Página)
+│   ├── script.js  (Efeitos de Animação)
+│   ├── images/
+│   │   └── carol.jpg  (Imagem da homenagem)
